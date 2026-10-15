@@ -1,0 +1,7 @@
+{
+  "name": "centrate-website",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Centrate product website",
+  "scripts": { "dev": "node serve.mjs", "start": "node serve.mjs" }
+}
